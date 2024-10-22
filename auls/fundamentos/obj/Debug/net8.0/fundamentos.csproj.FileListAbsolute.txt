@@ -1,0 +1,15 @@
+C:\Users\aleks\Documents\GitHubVisualCode\Curso Back End com .NET\auls\fundamentos\obj\Debug\net8.0\fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\Documents\GitHubVisualCode\Curso Back End com .NET\auls\fundamentos\obj\Debug\net8.0\fundamentos.AssemblyInfoInputs.cache
+C:\Users\aleks\Documents\GitHubVisualCode\Curso Back End com .NET\auls\fundamentos\obj\Debug\net8.0\fundamentos.AssemblyInfo.cs
+C:\Users\aleks\Documents\GitHubVisualCode\Curso Back End com .NET\auls\fundamentos\obj\Debug\net8.0\fundamentos.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Documents\GitHubVisualCode\Curso Back End com .NET\auls\fundamentos\obj\Debug\net8.0\fundamentos.sourcelink.json
+C:\Users\aleks\Documents\GitHubVisualCode\Curso Back End com .NET\auls\fundamentos\bin\Debug\net8.0\fundamentos.exe
+C:\Users\aleks\Documents\GitHubVisualCode\Curso Back End com .NET\auls\fundamentos\bin\Debug\net8.0\fundamentos.deps.json
+C:\Users\aleks\Documents\GitHubVisualCode\Curso Back End com .NET\auls\fundamentos\bin\Debug\net8.0\fundamentos.runtimeconfig.json
+C:\Users\aleks\Documents\GitHubVisualCode\Curso Back End com .NET\auls\fundamentos\bin\Debug\net8.0\fundamentos.dll
+C:\Users\aleks\Documents\GitHubVisualCode\Curso Back End com .NET\auls\fundamentos\bin\Debug\net8.0\fundamentos.pdb
+C:\Users\aleks\Documents\GitHubVisualCode\Curso Back End com .NET\auls\fundamentos\obj\Debug\net8.0\fundamentos.dll
+C:\Users\aleks\Documents\GitHubVisualCode\Curso Back End com .NET\auls\fundamentos\obj\Debug\net8.0\refint\fundamentos.dll
+C:\Users\aleks\Documents\GitHubVisualCode\Curso Back End com .NET\auls\fundamentos\obj\Debug\net8.0\fundamentos.pdb
+C:\Users\aleks\Documents\GitHubVisualCode\Curso Back End com .NET\auls\fundamentos\obj\Debug\net8.0\fundamentos.genruntimeconfig.cache
+C:\Users\aleks\Documents\GitHubVisualCode\Curso Back End com .NET\auls\fundamentos\obj\Debug\net8.0\ref\fundamentos.dll

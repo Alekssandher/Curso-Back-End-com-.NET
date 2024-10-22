@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿
+persona1.introduce();
+
+Calcu calc1 = new Calcu();
+calc1.somar(12, 4);
